@@ -1,5 +1,5 @@
-## Spring Basic
-# Spring Bean, Dependency Injection, @Component, @Autowired, @Value
+# Spring Basic
+## Spring Bean, Dependency Injection, @Component, @Autowired, @Value
 * Creación de una aplicación Spring (1)
 * Inyección de dependencias en constructor y en setter (2, 3)
 * @Autowired y @Component (4)
