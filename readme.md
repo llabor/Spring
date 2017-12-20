@@ -1,2 +1,2 @@
 # Spring
-Spring Beans, Dependency Injection, @Component, @Autowired, @Value
+Spring Bean, Dependency Injection, @Component, @Autowired, @Value
