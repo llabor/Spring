@@ -10,15 +10,16 @@
 14-29
 # Hibernate
 # Spring Security
-# Spring Boot# Prerequistes
+# Spring Boot
 
 # Prerequistes
 Usage     | Link
 ---       | ---
-[SDK](https://github.com/angular/angular-cli/wiki/generate-component) | `ng g component my-new-component`
-[IDE](https://github.com/angular/angular-cli/wiki/generate-directive) | `ng g directive my-new-directive`
-[Server](https://github.com/angular/angular-cli/wiki/generate-pipe)           | `ng g pipe my-new-pipe`
-[API](https://github.com/angular/angular-cli/wiki/generate-service)     | `ng g service my-new-service`
+SDK | [Java Development Kit (JDK)](https://github.com/angular)
+IDE | Eclipse](https://github.com/angular)
+Server | [Apache Tomcat)](https://github.com/angular)
+API | [Java DataBase Connector (JDBC)](https://github.com/angular)
+
 
 
 
