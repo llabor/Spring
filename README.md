@@ -1,2 +1,2 @@
 # Spring
-Spring Beans, Spring MVC, Spring JDBC-DAO, Spring Hibernate
+Spring Beans, Dependency Injection, @Component, @Autowired, @Value
