@@ -23,6 +23,6 @@ Integration | [Maven](https://github.com/angular)
 JDBC API | [Java Data Base Connector](https://github.com/angular)
 RDB Server | [MySQL Server](https://github.com/angular)
 RDB Workbench | [MySQL Workbench](https://github.com/angular)
-## Spring Framework Documentation
-# Version 5.0.2.RELEASE
+### Spring Framework Documentation
+Version 5.0.2.RELEASE
 [Spring Framework Documentation](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
