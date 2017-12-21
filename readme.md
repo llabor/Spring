@@ -5,6 +5,8 @@
 * `@Value` (5)
 
 ## Spring JDBC
+* Datasource bean (1)
+* Persistencia JdbcTemplate
 6-13
 ## Spring MVC
 14-29
