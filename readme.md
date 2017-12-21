@@ -18,11 +18,11 @@ Usage     | Link
 SDK | [Java Development Kit (JDK)](https://github.com/angular)
 IDE | [Eclipse](https://github.com/angular)
 IDE | [STS (Spring Tool Suite)](https://github.com/angular)
-Server | [Apache Tomcat](https://github.com/angular)
+Application Server | [Apache Tomcat](https://github.com/angular)
 Integration | [Maven](https://github.com/angular)
 API | [Java DataBase Connector (JDBC)](https://github.com/angular)
-DB Server | [MySQL Server](https://github.com/angular)
-Workbench | [MySQL Workbench](https://github.com/angular)
+RDB Server | [MySQL Server](https://github.com/angular)
+RDB Workbench | [MySQL Workbench](https://github.com/angular)
 
 
 
